@@ -72,13 +72,7 @@ This project was developed during a Practice School II internship at **PES Onlin
 ## 🧑‍💼 Authors & Contributors
 
 * **Anshul Yadav** – Developer
-* **Mr. Bhavish Yadav** – Industry Mentor
-* **Dr. Himanshu Upreti** – Faculty Guide
-
 ---
 
-## 📄 License
-
-This project is intended for academic use only and was submitted as part of the **Practice School II Program** at **BML Munjal University**.
-
-
+## Code
+For the project code you can contact me on email: anshulyadav802@gmail.com
