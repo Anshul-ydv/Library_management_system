@@ -4,12 +4,6 @@ A comprehensive and user-friendly Library Management System developed using **AS
 
 ---
 
-## 🚀 Project Overview
-
-This project was developed during a Practice School II internship at **PES Online Services** under the mentorship of **Mr. Bhavish Yadav** (Industry) and **Dr. Himanshu Upreti** (Faculty). The goal was to design a robust system for improving library efficiency, accuracy, and user satisfaction.
-
----
-
 ## 🎯 Features
 
 * 📘 **Book Management** – Add, classify, and manage library books.
